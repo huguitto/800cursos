@@ -11,7 +11,7 @@ module.exports =function (){
 
     
     //si vamos a agregar algo escribimos post, la ruta y el controlador
-    router.post('/api/4817/curso',
+    router.post('/api/800/curso',
 
     cursosControlador.nuevoCurso
     
