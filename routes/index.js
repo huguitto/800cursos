@@ -19,7 +19,7 @@ module.exports =function (){
 
     //obtener cursos de la base
      //Obtienes todos los registros
-     router.get('/api/cursos',
+     router.get('/api/800cursos',
      cursosControlador.obtenerCursos
     );
 
