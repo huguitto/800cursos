@@ -24,7 +24,7 @@ const bodyParser =require('body-parser');
 
 //conectar con mongoDB
 mongoose.Promise=global.Promise;
-mongoose.connect('mongodb+srv://root:root@cluster0-t4baf.mongodb.net/apicursos',{
+mongoose.connect('mongodb+srv://root:root@cluster0-t4baf.mongodb.net/800cursos',{
 
         useNewUrlParser:true,
         useUnifiedTopology:true,
